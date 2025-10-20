@@ -6,6 +6,7 @@ a=int(input('ENTER THE VALUE of X:'))
 b=int(input('ENTER THE VALUE of Y:'))
 print(a,'/',b,'=',a/b,)
 print()
+
 print('Addtition')
 a=int(input('ENTER THE VALUE of X:'))
 b=int(input('ENTER THE VALUE of Y:'))
